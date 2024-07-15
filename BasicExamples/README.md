@@ -1,4 +1,4 @@
-# Patike.Dev Java101 
+# Patika.Dev Java101 
 🇹🇷 TR
 
 Java101 kursuna ait projelerin bulunduğu depodur.
